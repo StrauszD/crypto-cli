@@ -1,0 +1,13 @@
+{
+  "name": "crypto-cli",
+  "version": "0.1.0",
+  "license": "MIT",
+  "bin": {
+    "crypto": "bin/crypto"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
